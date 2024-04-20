@@ -1,23 +1,4 @@
-// import React from 'react';
-// import { Link } from 'react-router-dom'; // Assuming you're using React Router for navigation
-// import './Navbar.css';
 
-// function Navbar() {
-//   return (
-//     <nav className='container'>
-//       <div className='main'>
-//         <p>
-//           <Link to="/">Home</Link>
-//         </p>
-//         <p>
-//           <Link to="/products">Products</Link>
-//         </p>
-//       </div>
-//     </nav>
-//   );
-// }
-
-// export default Navbar;
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
