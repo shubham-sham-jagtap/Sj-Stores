@@ -1,0 +1,12 @@
+/* CustomCarousel.css */
+.custom-carousel .carousel-indicators li {
+    background-color: black; /* Change the color of the Carousel indicators to black */
+  }
+  
+  .custom-carousel .carousel-control-prev-icon,
+  .custom-carousel .carousel-control-next-icon {
+    background-color: black; /*Change the color of the Carousel control icons to black */
+    color:rgb(93, 9, 9);
+  }
+  
+  

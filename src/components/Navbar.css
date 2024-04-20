@@ -1,0 +1,28 @@
+/* .container  {
+    width: auto;
+    height: min-content;
+}
+
+.main {
+    display: flex;
+    justify-items: auto;
+    align-items: center;
+    padding: 2px 2px 2px 2px;
+    background-color: aqua;
+    text-decoration: none;
+} */
+
+#logo{
+    justify-content: end;
+    align-items: end;
+    padding-right: 40px;
+}
+
+#logo1 {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#logo2{
+    font-size: 30px;
+}

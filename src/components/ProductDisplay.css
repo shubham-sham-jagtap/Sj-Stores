@@ -1,0 +1,4 @@
+.carousel-wrapper {
+  overflow-x: auto;
+  display: flex;
+}
